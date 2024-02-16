@@ -1,0 +1,1 @@
+{"name":"Rotom-Frost","id":"rotomfrost","num":479,"moves":[{"id":"blizzard","name":"Blizzard","desc":"Has a 10% chance to freeze the target. If the weather is Snow, this move does not check accuracy.","shortDesc":"10% chance to freeze foe(s). Can't miss in Snow.","type":"Ice","num":59,"category":"Special","priority":0,"accuracy":70,"pp":5,"basePower":110}]}

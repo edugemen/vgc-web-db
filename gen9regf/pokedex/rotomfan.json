@@ -1,0 +1,1 @@
+{"name":"Rotom-Fan","id":"rotomfan","num":479,"moves":[{"id":"airslash","name":"Air Slash","desc":"Has a 30% chance to make the target flinch.","shortDesc":"30% chance to make the target flinch.","type":"Flying","num":403,"category":"Special","priority":0,"accuracy":95,"pp":15,"basePower":75}]}
