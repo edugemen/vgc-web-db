@@ -1,1 +1,1 @@
-{"name":"Tornadus-Therian","id":"tornadustherian","num":641,"moves":[]}
+{"name":"Tornadus-Therian","id":"tornadustherian","num":641,"types":["Flying"],"imgID":641,"baseStats":[79,100,80,110,90,121],"weight":63,"bst":580,"usage":0.01,"moves":[],"abilities":[{"name":"Regenerator","id":"regenerator","desc":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.","shortDesc":"This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.","num":144}],"teammates":[],"items":[],"spreads":[]}
